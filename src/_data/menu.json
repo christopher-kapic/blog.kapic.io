@@ -1,16 +1,11 @@
 [
     {
         "label": "About",
-        "url": "/about"
+        "url": "https://kapic.io/"
     },
     {
         "label": "Tag List",
         "url": "/tags"
-    },
-    {
-        "label": "GitHub",
-        "url": "https://github.com/christopher-kapic",
-        "newTab": true
     },
     {
         "label": "Feed",
