@@ -1,3 +1,13 @@
+---
+title: Arch Linux Installation Tutorial (Tested on T530)
+date: 2021-08-27T08:05
+thumb: pending.png
+tags: 
+    - Linux
+    - Arch
+    - Hardware
+---
+
 Follow along to install Arch Linux (tested on ThinkPad T530)
 
 #### [Download the `.iso`](https://archlinux.org/download/)
