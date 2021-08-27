@@ -1,7 +1,7 @@
 ---
 title: Arch Linux Installation Tutorial (Tested on T530)
 date: 2021-08-27T08:05
-thumb: pending.png
+thumb: Arch3.png
 tags: 
     - Linux
     - Arch
