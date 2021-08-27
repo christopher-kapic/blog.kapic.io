@@ -1,7 +1,7 @@
 ---
 title: There is a better alternative for serverless caching
 date: 2021-07-14T23:21
-thumb: serverlessredis.png
+thumb: serverless-redis.png
 tags: 
     - Redis
     - Serverless
