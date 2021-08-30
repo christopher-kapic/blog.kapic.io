@@ -5,7 +5,8 @@ module.exports = {
   // your site url without trailing slash
   url: 'https://blog.kapic.io',
   // how many posts you want to show for each page
-  paginate: 6
+  paginate: 6,
+  image: '/assets/img/og:image.png'
   // if you want to add disqus to your site
   // disqusShortname: "your-shortname"
 };

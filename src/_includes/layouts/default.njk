@@ -1,6 +1,6 @@
 {%- set metaTitle -%}
     {%- if not title -%}{{ site.title }}
-    {%- else -%}{{ title | safe }} | {{ site.title }}
+    {%- else -%}{{ title | safe }}
     {%- endif -%}
 {%- endset -%}
 {%- set metaDesc -%}
@@ -16,13 +16,19 @@
         {%- endfor -%}
     {%- endif -%}
 {%- endset -%}
+{%- set metaImage -%}
+    {%- if not thumb -%}{{ site.image }}
+    {%- else -%}{{ thumb }}
+    {%- endif -%}
+{%- endset -%}
 <!DOCTYPE html>
 <html>
     
 <head>
     <script defer data-domain="blog.kapic.io" src="https://plausible.io/js/plausible.js"></script>
-    <meta property='og:image' content='/assets/img/og:image.png'/>
-    <meta property="og:title" content="Christopher Kapic">
+    {# <meta property='og:image' content='/assets/img/og:image.png'/> #}
+    <meta property='og:image' content='{{ metaImage }}'/>
+    <meta property="og:title" content="{{ metaTitle }}">
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
