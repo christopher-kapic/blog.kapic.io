@@ -253,7 +253,7 @@ const App () => {
 
 Create a component for the login page. For example, `/src/components/Login.js`.
 
-```js
+```jsx
 import React from 'react'
 
 const Login = (props) => {
@@ -309,7 +309,7 @@ In `/src/App.js`, import the Login component:
 
 And in the function for the App component, return the Login component conditionally on user:
 
-```js
+```jsx
 const App = () => {
     ...
 
@@ -345,7 +345,7 @@ For a quick copy/paste.
 
 `/src/App.js`
 
-```js
+```jsx
 import React, { useState, useEffect } from 'react'
 import fire from './fire'
 
@@ -450,7 +450,7 @@ const App () => {
 
 `/src/components/Login.js`
 
-```js
+```jsx
 import React from 'react'
 
 const Login = (props) => {
