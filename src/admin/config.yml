@@ -1,6 +1,7 @@
 backend:
   # Settings to use Netlify Identity as backend
   name: git-gateway
+  repo: christopher-kapic/blog.kapic.io
   branch: master
 
 # Add the route to your images, so Netlify CMS knows where to save uploads to.
