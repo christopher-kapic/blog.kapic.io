@@ -5,8 +5,8 @@ backend:
   branch: master
 
 # Add the route to your images, so Netlify CMS knows where to save uploads to.
-media_folder: "src/static/img"
-public_folder: "/static/img"
+media_folder: "src/posts/img"
+public_folder: "src/assets"
 
 # You can delete my other comments, but it's helpful to leave the following one here so you don't forget how to run your Netlify CMS.
 # If you don't run this command, the CMS will keep giving you errors when you try to login
