@@ -17,6 +17,8 @@ public_folder: "src/assets"
 local_backend: true
 
 publish_mode: editorial_workflow
+site_url: https://blog.kapic.io
+display_url: https://blog.kapic.io
 
 # Add your collections. Here's an example of multiple collections: 
 collections:
