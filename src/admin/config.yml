@@ -28,9 +28,10 @@ collections:
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Publish Date", name: "date", widget: "datetime" }
-      - { label: "Thumbnail", name: "thumb", widget: "string", default: "pending.png"}
+      - { label: "Thumbnail", name: "thumb", widget: "image", default: "pending.png"}
       - { label: "Tags", name: "tags", widget: list }
       - { label: "Body", name: "body", widget: "markdown" }
+      # - { label: "Publish" name: "publish", widget: "boolean"}
   ## 
   # Visit https://www.netlifycms.org/docs/widgets/ to learn more about what widgets you can use.
   # Widgets are the data type that field will allow and how the CMS UI will be like for that field , like datetime, number, list of options, boolean, image, code, and more. 
