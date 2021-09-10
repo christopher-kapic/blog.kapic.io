@@ -16,6 +16,8 @@ public_folder: "src/assets"
 # In another terminal window, simultaneously run: "npx netlify-cms-proxy-server" for local backend
 local_backend: true
 
+publish_mode: editorial_workflow
+
 # Add your collections. Here's an example of multiple collections: 
 collections:
 # First Collection
