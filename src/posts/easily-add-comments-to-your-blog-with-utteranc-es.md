@@ -1,7 +1,7 @@
 ---
 title: Easily Add Comments to Your Blog with Utteranc.es
 date: 2021-09-15T20:45:33.552Z
-thumb: src/assets/utterances.png
+thumb: utterances.png
 tags:
   - Blog
   - Comments
