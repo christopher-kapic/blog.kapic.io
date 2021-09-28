@@ -17,4 +17,6 @@ I was recently interviewed for a React, Java, and JavaScript role. I do not yet 
 
 #### What are promises in JavaScript? What are the three promise states?
 
+#### What are load errors? Runtime errors? Logical errors?
+
 #### React hooks
