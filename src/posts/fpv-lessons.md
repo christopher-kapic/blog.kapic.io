@@ -1,5 +1,5 @@
 ---
-title: What I wish I knew before starting FPV
+title: What I Wish I Knew Before Starting FPV
 date: 2021-11-11T16:33:24.295Z
 thumb: fpv.png
 tags:
