@@ -1,9 +1,9 @@
 ---
 title: What I wish I knew before starting FPV
-date: 2021-04-12T08:15
-thumb: pending.png
-tags: 
-    - FPV
+date: 2021-11-11T16:33:24.295Z
+thumb: src/assets/fpv.png
+tags:
+  - FPV
 ---
 
 I have been admiring FPV pilots from afar for a little while, and I finally decided to enter into the hobby. Here are some things I wish I had known when I began.
